@@ -1,1 +1,1 @@
-# Toy: What am i eating today
+# What am i eating today
